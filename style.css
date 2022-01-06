@@ -131,18 +131,18 @@ p {
 }
 
 .missions .mission-details .mission {
-    background-color:#c3e9ff ;
+    background-color:#c5ebff ;
     margin-left: 3%;
 }
 
 .missions .mission-details .vission {
     margin-left: 2%;
     margin-right: 2%;
-    background-color:#bce1ff ;
+    background-color:rgb(169, 232, 255);
 }
 
 .missions .mission-details .goal {
-    background-color:#b6e4ff ;
+    background-color:rgb(206, 255, 255) ;
     margin-right: 3%;
 }
 
