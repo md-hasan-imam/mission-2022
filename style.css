@@ -126,18 +126,18 @@ p {
 }
 
 .missions .mission-details .mission {
-    background-color:#d0dfff ;
+    background-color:#defeff ;
     margin-left: 3%;
 }
 
 .missions .mission-details .vission {
     margin-left: 2%;
     margin-right: 2%;
-    background-color:#c0d8ff ;
+    background-color:#d9f3ff ;
 }
 
 .missions .mission-details .goal {
-    background-color:#cbf7fc ;
+    background-color:#dae8ff ;
     margin-right: 3%;
 }
 
@@ -170,7 +170,7 @@ p {
     background-repeat: no-repeat;
     background-size: 20%;
     background-position-x: right;
-    background-position-y: bottom;
+    background-position-y: bottom; 
 }
 
 .community .community-text {
