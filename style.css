@@ -81,6 +81,11 @@ p {
     margin-top: 30px;
 }
 
+.banner .banner-img{
+    padding-left: 0px;
+    padding-top: 40px;
+}
+
 .banner .banner-img img {
     width: 100%;
 }
@@ -126,18 +131,18 @@ p {
 }
 
 .missions .mission-details .mission {
-    background-color:#defeff ;
+    background-color:#c3e9ff ;
     margin-left: 3%;
 }
 
 .missions .mission-details .vission {
     margin-left: 2%;
     margin-right: 2%;
-    background-color:#d9f3ff ;
+    background-color:#bce1ff ;
 }
 
 .missions .mission-details .goal {
-    background-color:#dae8ff ;
+    background-color:#b6e4ff ;
     margin-right: 3%;
 }
 
