@@ -1,3 +1,5 @@
+/* common css starts */
+
 * {
     margin: 0px;
 }
@@ -21,7 +23,7 @@ a {
     font-family: 'Rubik', sans-serif;
     font-size: 20px;
     font-weight: 700;
-    background-image: linear-gradient(#639fff, #8cf0fc);
+    background-image: linear-gradient(#97bcf7, #adf4fc);
     padding: 12px 30px;
     border-radius: 5px;
     color: rgb(37, 36, 36);
@@ -41,14 +43,14 @@ h3 {
     font-family: 'Nunito', sans-serif;
     font-size: 50px;
     font-weight: 700;
-    color: #0061ff;
+    color: #3783ff;
 }
 
 h4 {
     font-family: 'Rubik', sans-serif;
     font-size: 25px;
     font-weight: 700;
-    color: #0061ff;
+    color: #1a1c1f;
 }
 
 p {
@@ -57,6 +59,10 @@ p {
     font-weight: 500;
     color: #464242;
 }
+
+/* common css ends */
+
+/* banner css starts */
 
 .banner .banner-text {
     margin-top: 80px;
@@ -120,18 +126,18 @@ p {
 }
 
 .missions .mission-details .mission {
-    background-image: linear-gradient(#c0d8ff, #c5f9ff);
+    background-color:#d0dfff ;
     margin-left: 3%;
 }
 
 .missions .mission-details .vission {
     margin-left: 2%;
     margin-right: 2%;
-    background-image: linear-gradient(#d0dfff, #b0cfff);
+    background-color:#c0d8ff ;
 }
 
 .missions .mission-details .goal {
-    background-image: linear-gradient(#c9fff2, #b0f7ff);
+    background-color:#cbf7fc ;
     margin-right: 3%;
 }
 
@@ -142,7 +148,6 @@ p {
     background-repeat: no-repeat;
     background-size: 20%;
     background-position-x: left;
-
 }
 
 .development .development-img img {
@@ -166,7 +171,6 @@ p {
     background-size: 20%;
     background-position-x: right;
     background-position-y: bottom;
-
 }
 
 .community .community-text {
@@ -183,25 +187,69 @@ p {
     width: 100%;
 }
 
+/* applicatio part starts */
+
+.application{
+    margin-top: 30px;
+}
+.application .heading{
+    text-align: center;
+}
+
+.application .heading span{
+    color: #0061ff;
+}
+
+.application .application-img{
+    text-align: center;
+    width: 50%;
+    margin-top: 30px;
+}
+.application .application-img img{
+    width: 70%;
+}
+
+.application .application-text{
+    width: 50%;
+    margin-top: 150px;
+}
+
+.application .application-text h5{
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+}
+
+.application .application-text p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-right: 60px;
+}
+
+.application .application-text .heading{
+    text-align: left;
+}
+
 /* footer starts */
 
-.footer{
+.footer {
     padding-top: 50px;
     padding-bottom: 50px;
     background: #0B0D17;
     text-align: center;
 }
-.footer h5{
+
+.footer h5 {
     font-family: 'Nunito', sans-serif;
     font-weight: 800;
     font-size: 26px;
     color: white;
 }
-.footer span{
+
+.footer span {
     color: #498fff;
 }
 
-.footer p{
+.footer p {
     font-family: 'Nunito', sans-serif;
     font-size: 13px;
     color: #cec9c9;
